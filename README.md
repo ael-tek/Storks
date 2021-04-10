@@ -27,7 +27,8 @@ If you have the Power Bi Desktop application, then you can open my interactive d
 * A report of all the conclusions that I made making this project
 
 ## Status
-Project is: _finished_ since Tuesday, January 12
+Project is: _finished_ since Sunday, April 11
 
 ## Inspiration
-A large part of my inspiration comes from the National Center for Biotechnology Information, which has the most interesting ressources.
+A large part of my inspiration comes from the National Center for Biotechnology Information, which has the most enthralling resources about advanced science and health subjects.
+https://www.ncbi.nlm.nih.gov/
